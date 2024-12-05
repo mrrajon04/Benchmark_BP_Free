@@ -68,7 +68,7 @@ Choose from the following initialization methods:
 # Sample Results
 
 Performance of various BP mitigation strategies on different datasets:
-
+![Benchmark BP Free Results](https://github.com/mrrajon04/Benchmark_BP_Free/blob/main/results/image.png)
 
 ---
 
